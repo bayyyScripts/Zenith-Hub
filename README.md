@@ -1,2 +1,0 @@
-# Zenith-Hub
-Zenith Hub
